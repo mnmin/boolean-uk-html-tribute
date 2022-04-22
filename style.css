@@ -1,0 +1,54 @@
+/*heading 1 properties*/
+h1 {
+    color: rgb(209, 43, 43);
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+    text-decoration-color: brown;
+}
+
+h2 {
+    color: rgb(65, 49, 218)
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h2 {
+    text-decoration: underline;
+    text-decoration-color: rgb(180, 12, 247);
+}
+
+h3 {
+    color: rgb(85, 85, 85);
+}
+
+p {
+    font-size: 20px;
+}
+
+p {
+    word-spacing: 5px;
+}
+
+p {
+    line-height: 0.8;
+}
+
+ul {
+    font-size: 28px;
+}
+
+body {
+    background-color: rgb(234, 234, 248);
+}
